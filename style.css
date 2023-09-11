@@ -67,7 +67,7 @@ font-weight: 400;
 }
 
 .secundario__imagem{
-    width: 30%;
+    width: 80%;
 }
 
 .secundario{
@@ -85,6 +85,18 @@ font-weight: 400;
 .descricao__texto{
 color: var(--cinza-secundario);
 }
+   
+.secundario__botao{
+    display: inline-block;
+    margin-top: 1em;
+
+}
+
+.container__descricao{
+    padding: 2em;
+
+}
+
 
 
 
