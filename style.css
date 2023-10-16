@@ -142,4 +142,26 @@ body{
     margin: 5em 3em;
 }
 
+.lista__link a:hover {
+    color: var(--botao-azul);
+}
+
+.lista__link a:active{
+    color:cornflowerblue
+}
+
+.container__botao:hover {
+    background-color: #bb287e;
+}
+
+.container__botao:active{
+    background-color: #b473ce;
+
+}
+
+
+
+
+
+
 
